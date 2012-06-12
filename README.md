@@ -7,6 +7,7 @@ Key Commands
 -----
 
 <table>
+  <tr><th>Key</th><th>Command</th><th>Scope</th></tr>
   <tr><td>#</td><td>Add ‘# =&gt;’ Marker</td><td>source.ruby</td></tr>
   <tr><td>$L</td><td>$LABEL</td><td>source.yaml</td></tr>
   <tr><td>:</td><td>Hash Pair — :key =&gt; "value"</td><td>source.ruby</td></tr>
